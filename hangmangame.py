@@ -1,7 +1,7 @@
 """
 Hangman game max 8 errors
 
-DISCLAIMER :
+ALERT:
 
 the textfile 'words.txt' contains words of italian dictionary
 
